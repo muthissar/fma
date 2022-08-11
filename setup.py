@@ -6,4 +6,6 @@ setup(name='freemusicarchive',
       url='https://github.com/mdeff/fma',
       author='Michaël Defferrard',
       author_email='michael.defferrard@epfl.ch',
-      license='MIT')
+      license='MIT',
+      packages=['fma']
+      )
